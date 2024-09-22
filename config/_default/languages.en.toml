@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
+title = "Personal Portfolio"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,6 +13,16 @@ title = "Congo"
   # description = "My awesome website"
 
 [params.author]
+  name = "Pavel Bibichenko"
+  image = "img/author.jpg"
+  headline = "C++ Tech Lead | Software Engineer"
+  bio = "A little bit"
+  links = [
+    { email = "mailto:b7086163@gmail.com" },
+    { github = "https://github.com/erhoof" },
+    { telegram = "https://t.me/erhoof" },
+    { linkedin = "https://www.linkedin.com/in/erhoof" },
+  ]
   # name = "Your name here"
   # image = "img/author.jpg"
   # headline = "I'm only human"
